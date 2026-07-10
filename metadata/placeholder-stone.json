@@ -1,8 +1,8 @@
 {
   "name": "HoodRock",
   "description": "888 primitive rocks on Robinhood Chain.",
-  "image": "https://staging.hoodrock.xyz/rocks/hoodrock-placeholder-stone.png",
-  "external_url": "https://staging.hoodrock.xyz/",
+  "image": "https://lemeipiutost.hoodrock.xyz/rocks/hoodrock-placeholder-stone.png",
+  "external_url": "https://lemeipiutost.hoodrock.xyz/",
   "attributes": [
     {
       "trait_type": "Status",
